@@ -1,0 +1,85 @@
+/* import { makeStyles } from "@material-ui/core";
+
+export const useStyles = makeStyles({
+  footer: {
+    position: "absolute",
+    left: "0px",
+    top: "790px",
+    width: "1440px",
+    height: "110px",
+    display: "flex",
+    backgroundColor: "rgba(42,44,46,1)",
+  },
+  box1: {
+    fontFamily: "'Roboto Light', 'Roboto Regular', 'Roboto', sans-serif",
+    fontStyle: "normal",
+    fontSize: "12px",
+    color: "#FFFFFF",
+    lineHeight: "20px",
+    fontWeight: "300",
+    width: "142px",
+    height: "52px",
+    display: "flex",
+  },
+  nestedBox: {
+    alignSelf: "flex-start",
+    padding: "0px",
+    boxSizing: "border-box",
+    width: "100%",
+    wordWrap: "break-word",
+    textTransform: "none",
+  },
+  box2: {
+    fontFamily: "'Roboto Light', 'Roboto Regular', 'Roboto', sans-serif",
+    fontStyle: "normal",
+    fontSize: "12px",
+    color: "#FFFFFF",
+    lineHeight: "20px",
+    fontWeight: "300",
+    width: "509px",
+    height: "26px",
+    display: "flex",
+  },
+  box3: {
+    position: "absolute",
+    left: "45px",
+    top: "849px",
+    width: "1357px",
+    height: "1px",
+    display: "flex",
+    backgroundColor: "lightslategrey",
+  },
+  box4: {
+    position: "absolute",
+    left: "45px",
+    top: "849px",
+    width: "1357px",
+    height: "51px",
+    display: "flex",
+  },
+  box5: {
+    position: "absolute",
+    left: "1283px",
+    top: "858px",
+    width: "108px",
+    height: "21px",
+    display: "flex",
+    fontFamily: "'Roboto Light', 'Roboto Regular', 'Roboto', sans-serif",
+    fontStyle: "normal",
+    fontSize: "14px",
+    color: "#FFFFFF",
+    textAlign: "center",
+    lineHeight: "20px",
+    color: "#FFFFFF",
+  },
+}); */
+
+.footer {
+  background: #1a242f;
+  height: 72px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #ffffff;
+}
